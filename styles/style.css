@@ -532,7 +532,7 @@ body {
   text-decoration: none;
   color: #4cb649;
   margin-right: 150px;
-  background-image: url("/images/icon-green-upload.png");
+  background-image: url("../images/icon-green-upload.png");
   background-repeat: no-repeat;
   background-position: right;
   padding-right: 28px;
@@ -605,7 +605,7 @@ body {
   height: 59px;
   color: #22252e;
   font-size: 16px;
-  background-image: url(/images/search.svg);
+  background-image: url(../images/search.svg);
   background-repeat: no-repeat;
   background-position: 90%;
   border: 1px solid;
